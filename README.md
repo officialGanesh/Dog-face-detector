@@ -11,3 +11,6 @@ this method is also use to detect other things like catFace,Smile,ear and mouth 
 ### If you are interested in this method go to the given link below
 
 [Haar Cascade] (https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html) 🔑
+
+also you can modify the project parameters according to your requirements such as changing the
+scaleFactor,minNeighbour etc.
